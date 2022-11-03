@@ -1,2 +1,3 @@
 # 01_libft
-Write your own library: a collection of functions that will be a useful tool for your cursus.
+## Scope of the Project: 
+Write your own library. A collection of functions that will be a useful tool for your cursus.
